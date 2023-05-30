@@ -1,4 +1,4 @@
-👋 Hey there, I'm @BitH0xker - a tech enthusiast, hacker (Gray hat but more specifically Red Hat), and hacktivist.
+👋 Hey there, I'm @BitH0xer - a tech enthusiast, hacker (Gray hat but more specifically Red Hat), and hacktivist.
 
 👀 I'm passionate about cybersecurity and love to explore the latest tools and techniques to keep our digital world safe and secure. I'm currently learning about cryptojacking and web scraping to stay up-to-date with the latest threats and trends.
 
